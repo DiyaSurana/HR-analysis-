@@ -1,4 +1,7 @@
 # HR Analytics - Boosting Retention with Data Insights at Adecco India
+
+![Image](https://github.com/user-attachments/assets/7a34c80b-4019-44db-bc59-2a98638f57d9)
+
  ## Scenario:
 - Adecco India is facing a high attrition rate, particularly in the sales department among junior-level employees. The management is worried about the potential impact on productivity and the costs associated with hiring and training new employees. As a data analyst, you are tasked with analyzing the HR data to uncover insights that can help in reducing the attrition rate. Your analysis will inform strategic decisions aimed at enhancing employee satisfaction and retention.
 
