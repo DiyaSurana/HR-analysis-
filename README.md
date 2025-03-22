@@ -44,7 +44,7 @@
 - The analysis reveals that Adecco India faces a significant attrition challenge, with an overall rate of 16.12%. The Research and Development department experiences the highest attrition (56.12%), while Human Resources has the lowest (5.06%). Key factors influencing attrition include low job satisfaction, particularly in the HR role, gender disparities (higher attrition among males), and lower income levels. The average attrition age is 33.61, with employees working overtime and those with a performance rating of 3 being more likely to leave. Addressing these issues with targeted interventions will be critical to improving retention and overall productivity.
 
 ## Contact:
-- Feel free to reach out for feedback or collaboration!
-  **📧**[Mail_Diya](jaindiya983@gmail.com) 
+Feel free to reach out for feedback or collaboration!
+  **📧**(jaindiya983@gmail.com) 
 🚀 Happy Analyzing!
 
